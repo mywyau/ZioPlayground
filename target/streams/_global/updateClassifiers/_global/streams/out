@@ -1,0 +1,3 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/michaelyau/self_projects/zio/ZioPlayground/"), "hello")...
+[debug] Done updating ProjectRef(uri("file:/Users/michaelyau/self_projects/zio/ZioPlayground/"), "hello")

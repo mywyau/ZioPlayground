@@ -1,0 +1,20 @@
+1633684190010:compile
+1633684408558:run
+1633684413728:exit
+1633684422729:compile
+1633684546807:run
+1633684574339:compile
+1633684581903:run
+1633684699104:set ThisBuild / scalaVersion := "2.13.6"
+1633684706640:run
+1633684719208:scalaVersion
+1633684727353:session save
+1633684776778:set ThisBuild / organisation := "mikey.zio.example"
+1633684796727:set ThisBuild / organization := "mikey.zio.example"
+1633684811070:session save
+1633684836223:reload
+1633684861756:test
+1633684935389:~testQuick
+1633685920243:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/hn/ft44w3s10vqgv9pc1kk1z22m0000gp/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/michaelyau/Library/Application Support/JetBrains/IdeaIC2021.2/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.1.1/sbt-structure-extractor-2021.1.1.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+1633685952931:git add -A
+1633685956272:exit
